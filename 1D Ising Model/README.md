@@ -1,6 +1,6 @@
 # 1D Ising Model
 
-
+# This project can be viewed at https://nbviewer.jupyter.org/github/pinech/Py-Projects/blob/master/Ferromagnetic%20Phase%20Transitions%20in%20the%201D%20Ising%20Model.ipynb
 A system always tries to lower its energy to reach a minimal energy equilibrium.
 At temps near T=0, a system may lower its energy by ordering its states, i.e. the spins of its particles which results
     in a non-zero magnetic moment for the system. 
