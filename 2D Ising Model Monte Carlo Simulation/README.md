@@ -2,7 +2,7 @@
 # This project can be viewed at https://nbviewer.jupyter.org/github/pinech/Py-Projects/blob/master/Ising%20Model%20Markov%20Chain%20Montre%20Carlo%20Simulations.ipynb
 
 
-The Ising Model is a simple, theoretical physical model of a magnet. 
+The Ising Model is a simple and effective physical model of a magnet. 
 A magnet's strength is measured by its magnetization, which arises from the combination of all particles in a lattice, each with either spin-up or spin-down.
 Each particle is like a dipole - a North-South magnet - if we line up all the "magnets" (i.e. individual particles) within the lattice to face the same direction, then the magnet system will gain an overall magnetization - it will be magnetic.
 However, if all the particles in the lattice have random spins, then the overall magnetization of the system should be close to zero as they will cancel each other with enough samples.
