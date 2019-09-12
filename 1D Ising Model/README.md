@@ -1,6 +1,6 @@
 # The 1D Ising Model
 
-# This project can be viewed at https://github.com/pinech/Py-Projects/blob/master/1D%20Ising%20Model/Ferromagnetic%20Phase%20Transitions%20in%20the%201D%20Ising%20Model.ipynb
+# This project can be viewed at https://nbviewer.jupyter.org/github/pinech/Py-Projects/blob/master/1D%20Ising%20Model/Ferromagnetic%20Phase%20Transitions%20in%20the%201D%20Ising%20Model.ipynb
 
 
 A system always tries to lower its energy to reach a minimal energy equilibrium.
