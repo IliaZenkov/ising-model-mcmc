@@ -1,5 +1,6 @@
 # Image Deconvolution
 
+# This project can be viewed at https://nbviewer.jupyter.org/github/pinech/Py-Projects/blob/master/Image%20Deconvolution/Image%20Deconvolution.ipynb
 In this program, I simulate a pinhole camera - we take an object and convolve it with a simple pinhole camera system to produce an image.
 In the case of the pinhole camera, the resulting image will be blurred due to the point-spread-function (PSF) of a pinhole camera.
 
