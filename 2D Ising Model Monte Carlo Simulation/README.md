@@ -1,5 +1,7 @@
 # Simulating the 2D Ising Model using a Monte Carlo algorithm
-https://github.com/pinech/Py-Projects/blob/master/1D%20Ising%20Model/Ferromagnetic%20Phase%20Transitions%20in%20the%201D%20Ising%20Model.ipynb
+
+#This projet can be viewed at 
+# Use the following project link: https://github.com/pinech/Py-Projects/blob/master/2D%20Ising%20Model%20Monte%20Carlo%20Simulation/Ising%20Model%20Markov%20Chain%20Montre%20Carlo%20Simulations.ipynb
 
 
 The Ising Model is a simple and effective physical model of a magnet. 
