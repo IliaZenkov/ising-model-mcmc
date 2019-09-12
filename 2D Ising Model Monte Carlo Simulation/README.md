@@ -1,6 +1,6 @@
 # Simulating the 2D Ising Model using a Monte Carlo algorithm
 
-#This projet can be viewed at 
+# This projet can be viewed at https://nbviewer.jupyter.org/
 # Use the following project link: https://github.com/pinech/Py-Projects/blob/master/2D%20Ising%20Model%20Monte%20Carlo%20Simulation/Ising%20Model%20Markov%20Chain%20Montre%20Carlo%20Simulations.ipynb
 
 
