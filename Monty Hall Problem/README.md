@@ -1,6 +1,6 @@
 # The Monty Hall Problem
 
-
+This project can be viewed at https://nbviewer.jupyter.org/github/pinech/Py-Projects/blob/master/Monty%20Hall%20Problem/The%20Monty%20Hall%20Problem.ipynb
 You're on a game show. There are three doors, behind one of which is a prize, while behind the other two is not a prize.
 The host asks us to pick 1 of the 3 doors. The contents of our chosen door are not revealed, but one of the prize-less bum doors are revealed.
 We are offered to stick with or change our choice of door (the prize door being either the one we picked, or the other still-closed door)
