@@ -1,7 +1,7 @@
 # Simulating the 2D Ising Model using a Monte Carlo algorithm
 
 # This projet can be viewed at https://nbviewer.jupyter.org/
-# Use the following project link: https://github.com/pinech/Py-Projects/blob/master/2D%20Ising%20Model%20Monte%20Carlo%20Simulation/Ising%20Model%20Markov%20Chain%20Montre%20Carlo%20Simulations.ipynb
+# Use the following project link: https://github.com/pinech/Py-Projects/blob/master/2D%20Ising%20Model%20Monte%20Carlo%20Simulation/Ising%20Model%20Markov%20Chain%20Montre%20Carlo%20Simulations%20(1).ipynb
 
 
 The Ising Model is a simple and effective physical model of a magnet. 
