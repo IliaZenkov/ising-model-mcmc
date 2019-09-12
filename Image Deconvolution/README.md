@@ -2,7 +2,8 @@
 
 In this program, I simulate a pinhole camera - we take an object and convolve it with a simple pinhole camera system to produce an image.
 In the case of the pinhole camera, the resulting image will be blurred due to the point-spread-function (PSF) of a pinhole camera.
-I then attempt to deconvolve, i.e. deblur the image from the pinhole camera to obtain back our original object.
+
+Here, I attempt to deconvolve, i.e. deblur the image from the pinhole camera to obtain back our original object.
 In this program, fourier transforms are used to employ convolution theorem for this purpose.
 I also use the Richardson-Lucy deconvolution algorithm to demonstrate its superiority to simple fourier deconvolution.
 
