@@ -19,3 +19,4 @@ The key insight to this problem is that we are not choosing between two doors, b
 Instead, we have switched choice from the first door - which has added probabilistic value to the second door. 
 
 
+source: https://en.wikipedia.org/wiki/Monty_Hall_problem
