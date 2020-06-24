@@ -5,6 +5,6 @@ A collection of Python projects I've completed focused on simulation - namely, s
 These projects were particularly instrumental in becoming comfortable with "Pythonic" code (i.e. exploiting Python's high level capabilities) to recreate complex physical models in relatively few lines of code. 
 
 
-<img src="https://i.imgur.com/NgzaZuO.jpg" width="400" height="790">
+<img src="https://i.imgur.com/NgzaZuO.jpg" width="50%">
 
 
