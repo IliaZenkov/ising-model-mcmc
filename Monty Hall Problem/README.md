@@ -19,6 +19,6 @@ The key insight to this problem is that we are not choosing between two doors, b
 Instead, we have switched choice from the first door - which has added probabilistic value to the second door. 
 
 
-# This project can be viewed at https://nbviewer.jupyter.org/github/pinech/Py-Projects/blob/master/Monty%20Hall%20Problem/The%20Monty%20Hall%20Problem.ipynb
+# Project output can be instantly viewed at https://nbviewer.jupyter.org/github/pinech/Py-Projects/blob/master/Monty%20Hall%20Problem/The%20Monty%20Hall%20Problem.ipynb
 
 
