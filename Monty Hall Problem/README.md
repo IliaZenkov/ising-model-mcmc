@@ -1,6 +1,5 @@
 # The Monty Hall Problem
 
-# This project can be viewed at https://nbviewer.jupyter.org/github/pinech/Py-Projects/blob/master/Monty%20Hall%20Problem/The%20Monty%20Hall%20Problem.ipynb
 
 You're on a game show. There are three doors, behind one of which is a prize, while behind the other two is not a prize.
 The host asks us to pick 1 of the 3 doors. The contents of our chosen door are not revealed, but one of the prize-less bum doors are revealed.
@@ -19,5 +18,7 @@ The answer to this problem is unintuitive - should it not be 50/50 when we are l
 The key insight to this problem is that we are not choosing between two doors, behind one of which is a prize. 
 Instead, we have switched choice from the first door - which has added probabilistic value to the second door. 
 
+
+# This project can be viewed at https://nbviewer.jupyter.org/github/pinech/Py-Projects/blob/master/Monty%20Hall%20Problem/The%20Monty%20Hall%20Problem.ipynb
 
 source: https://en.wikipedia.org/wiki/Monty_Hall_problem
