@@ -21,4 +21,4 @@ Instead, we have switched choice from the first door - which has added probabili
 
 # This project can be viewed at https://nbviewer.jupyter.org/github/pinech/Py-Projects/blob/master/Monty%20Hall%20Problem/The%20Monty%20Hall%20Problem.ipynb
 
-source: https://en.wikipedia.org/wiki/Monty_Hall_problem
+See: https://en.wikipedia.org/wiki/Monty_Hall_problem
