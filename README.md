@@ -1,6 +1,6 @@
 # Magnets - How Do They Work? 
 * ### The Ising Model lends us some insight
-* ### Explanations of the 1D and 2D Ising Models are contained within project folders 
+* ### Explanations of the 1D and 2D Ising Models are contained within the respective project folder
 
 
 ## 2D Ising Model: See Jupyer notebook here: https://nbviewer.jupyter.org/github/pinech/Py-Projects/blob/master/2D%20Ising%20Model%20Monte%20Carlo%20Simulation/Ising%20Model%20Markov%20Montre%20Carlo%20Simulations.ipynb
