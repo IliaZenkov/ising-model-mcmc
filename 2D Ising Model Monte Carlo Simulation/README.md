@@ -10,4 +10,4 @@ The Ising model simulates the process whereby individual particles are represent
 Theoretically, this model can be further defined and scaled up to any lattice dimension.
 Here, I simulate a 2D Ising model using Monte Carlo methods on a square lattice system of 20*20 spins.
 
-# Project output and animations can be instantly viewed at https://nbviewer.jupyter.org/github/pinech/Py-Projects/blob/master/2D%20Ising%20Model%20Monte%20Carlo%20Simulation/Ising%20Model%20Markov%20Montre%20Carlo%20Simulations.ipynb
+# Project output and animations can be instantly viewed at https://nbviewer.jupyter.org/github/IliaZenkov/ising-model-how-magnets-work/blob/master/2D%20Ising%20Model%20Monte%20Carlo%20Simulation/Ising%20Model%20Markov%20Montre%20Carlo%20Simulations.ipynb
