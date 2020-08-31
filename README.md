@@ -1,10 +1,11 @@
-# Py-Projects
+# Magnets - How Do They Work? The Ising Model Provides some Insight. 
 
-A collection of Python projects I've completed focused on simulation - namely, stochastic processes and physical models.
-
-These projects were particularly instrumental in becoming comfortable with "Pythonic" code (i.e. exploiting Python's high level capabilities) to recreate complex physical models in relatively few lines of code. 
+# Explanations of 1D and 2D Ising Model contained within project folders 
 
 
-<img src="https://i.imgur.com/NgzaZuO.jpg">
+
+# 2D Ising Model: Jupyter notebook can be instantly viewed at https://nbviewer.jupyter.org/github/pinech/Py-Projects/blob/master/2D%20Ising%20Model%20Monte%20Carlo%20Simulation/Ising%20Model%20Markov%20Montre%20Carlo%20Simulations.ipynb
+
+# 1D Ising Model: Jupyter notebook can be instantly viewed at https://nbviewer.jupyter.org/github/pinech/Py-Projects/blob/master/1D%20Ising%20Model/Ferromagnetic%20Phase%20Transitions%20in%20the%201D%20Ising%20Model.ipynb
 
 
