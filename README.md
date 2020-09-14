@@ -1,5 +1,5 @@
 # Magnets - How Do They Work? 
-* ### The Ising Model lends us some insight
+* ### The Ising Model lends us some insight by taking advantage of a Markov Chain Monte Carlo (MCMC) method
 * ### Explanations of the 1D and 2D Ising Models are contained within the respective project folder
 
 
