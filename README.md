@@ -1,4 +1,4 @@
-# Magnets - How Do They Work / Metropolis-Hastings MCMC
+# Metropolis-Hastings MCMC / Magnets - How Do They Work? 
 * ### The Ising Model lends us some insight by taking advantage of the Metrpolis-Hastings Markov Chain Monte Carlo (MCMC) algorithm
 * ### Explanations of the 1D and 2D Ising Models are contained within the respective project folder
 
