@@ -19,4 +19,4 @@ Consequently, where U is the Bohr Magneton constant,
 The Metropolis Algortihm can be implemented to manipulate such a 2D spin lattice to obtain snapshots of random configurations
     (to get random samples) of such a lattice and ultimately to demonstrate how such a lattice moves towards a state of lower energy and towards zero magnetization. We can also use the Metropolis algo to upscale to higher dimension spin lattice simulations.
 
-# Project output can be instantly viewed at https://nbviewer.jupyter.org/github/IliaZenkov/ising-model-how-magnets-work/blob/master/1D%20Ising%20Model/Ferromagnetic%20Phase%20Transitions%20in%20the%201D%20Ising%20Model.ipynb
+# [Notebook](https://nbviewer.jupyter.org/github/IliaZenkov/ising-model-how-magnets-work/blob/master/1D%20Ising%20Model/Ferromagnetic%20Phase%20Transitions%20in%20the%201D%20Ising%20Model.ipynb)
